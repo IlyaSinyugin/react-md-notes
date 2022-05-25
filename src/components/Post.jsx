@@ -22,7 +22,7 @@ const Post = () => {
     <div className="article-wrapper">
       <article>
         <header>
-          <div className="article_cover">
+          <div className="article__cover">
             <img src={cover} alt="my-cover" />
           </div>
         </header>
